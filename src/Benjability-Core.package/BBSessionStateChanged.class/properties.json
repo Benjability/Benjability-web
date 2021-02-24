@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BBAbstractAnnouncement",
+	"category" : "Benjability-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BBSessionStateChanged",
+	"type" : "normal"
+}

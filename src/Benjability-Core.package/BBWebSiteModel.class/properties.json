@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "BBAbstractModel",
+	"category" : "Benjability-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"instance"
+	],
+	"instvars" : [ ],
+	"name" : "BBWebSiteModel",
+	"type" : "normal"
+}

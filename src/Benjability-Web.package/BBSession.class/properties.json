@@ -1,13 +1,14 @@
 {
 	"commentStamp" : "",
-	"super" : "WAComponent",
+	"super" : "WASession",
 	"category" : "Benjability-Web",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"parent"
+		"announcer",
+		"user"
 	],
-	"name" : "BBAbstractComponent",
+	"name" : "BBSession",
 	"type" : "normal"
 }

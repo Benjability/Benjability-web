@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BBSessionStateChanged",
+	"category" : "Benjability-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BBSessionLogOut",
+	"type" : "normal"
+}

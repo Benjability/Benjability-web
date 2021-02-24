@@ -1,13 +1,13 @@
 {
 	"commentStamp" : "",
-	"super" : "WAComponent",
+	"super" : "BBAbstractComponent",
 	"category" : "Benjability-Web",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"parent"
+		"announcer"
 	],
-	"name" : "BBAbstractComponent",
+	"name" : "BBWebRoot",
 	"type" : "normal"
 }
