@@ -6,7 +6,8 @@
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [
-		"announcer"
+		"announcer",
+		"model"
 	],
 	"name" : "BBWebRoot",
 	"type" : "normal"

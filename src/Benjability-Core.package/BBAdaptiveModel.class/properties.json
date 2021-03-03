@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "BBAbstractModel",
+	"category" : "Benjability-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "BBAdaptiveModel",
+	"type" : "normal"
+}
